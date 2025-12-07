@@ -23,12 +23,7 @@
       </circle>
     </svg>
 
-    <div style="flex:1;">
-      <h2 style="margin:0;color:#ffffff;font-size:20px;font-weight:700;">Know About Me</h2>
-      <div style="color:#bfeec6;font-size:13px;margin-top:4px;">Spring Boot · Java · Backend · Secure-by-design</div>
-    </div>
-  </div>
-
+  
 
 <!-- Buttons have inline transition; hover will create subtle movement (no JS). -->
 
