@@ -52,7 +52,7 @@
           <li>Diving into <b>Spring Boot framework</b> and exploring libraries like <b>Apache Lucene</b>.</li>
           <li><b>Docker</b> containerization for consistent, CI/CD-friendly deployments.</li>
           <li>Robust <b>REST APIs</b> with data modeling, validation, persistence, and monitoring.</li>
-          <li><b>300+ DSA problems</b> solved — strong system thinking and code clarity.</li>
+          <li><b>400+ DSA problems</b> solved — strong system thinking and code clarity.</li>
           <li><b>Security-minded engineering</b> with secure-by-design and cybersecurity focus.</li>
         </ul>
       </td>
